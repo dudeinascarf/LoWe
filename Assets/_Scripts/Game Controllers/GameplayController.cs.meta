@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 88073c4d888f14196ba3f80d9d64c58f
+timeCreated: 1457892944
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - mainPlatform: {instanceID: 0}
+  - platformGenerationPoint: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - pausePanel: {instanceID: 0}
+  - mainMenuPanel: {instanceID: 0}
+  - restartGameButton: {instanceID: 0}
+  - rateUsButton: {instanceID: 0}
+  - doubleCollectablesButton: {instanceID: 0}
+  - soundButton: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - highScoreText: {instanceID: 0}
+  - collectablesTextGame: {instanceID: 0}
+  - doubleCollectablesButtonText: {instanceID: 0}
+  - collectablesSprite: {fileID: 21300000, guid: 5f64d82979a3c45bdab7362962b9b8d0,
+      type: 3}
+  - collectablePanel: {instanceID: 0}
+  - facebookButton: {instanceID: 0}
+  - infoPanel: {instanceID: 0}
+  - infoImage: {instanceID: 0}
+  - notificationText: {instanceID: 0}
+  - whiteScreenAnim: {instanceID: 0}
+  - mainMenuBackground: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
